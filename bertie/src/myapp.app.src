@@ -1,4 +1,4 @@
-{application, bertie,
+{application, myapp,
  [
   {description, ""},
   {vsn, "1"},
@@ -7,6 +7,6 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { bertie_app, []}},
+  {mod, { myapp_app, []}},
   {env, []}
  ]}.

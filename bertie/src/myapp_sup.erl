@@ -1,4 +1,4 @@
--module(bertie_sup).
+-module(myapp_sup).
 
 -behaviour(supervisor).
 
